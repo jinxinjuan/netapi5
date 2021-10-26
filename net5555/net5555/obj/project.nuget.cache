@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zzSBSkV9ftE5YLI7En8O1Vd7HqPAiS9aRSIHmPN44s/sxnIFbcl3/oF+eycaxDBTDTfk03ahXY5qzQ1aBEBK2g==",
+  "success": true,
+  "projectFilePath": "/Users/zhangenbi/Projects/net5555/net5555/net5555.csproj",
+  "expectedPackageFiles": [
+    "/Users/zhangenbi/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.9/microsoft.netcore.app.host.osx-x64.5.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
